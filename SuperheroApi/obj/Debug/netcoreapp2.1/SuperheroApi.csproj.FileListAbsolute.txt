@@ -1,0 +1,14 @@
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\bin\Debug\netcoreapp2.1\SuperheroApi.deps.json
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\bin\Debug\netcoreapp2.1\SuperheroApi.runtimeconfig.json
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\bin\Debug\netcoreapp2.1\SuperheroApi.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\bin\Debug\netcoreapp2.1\SuperheroApi.dll
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\bin\Debug\netcoreapp2.1\SuperheroApi.pdb
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.RazorAssemblyInfo.cache
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.RazorAssemblyInfo.cs
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.RazorTargetAssemblyInfo.cache
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.dll
+C:\Users\Bobby\source\repos\SuperheroApi\SuperheroApi\obj\Debug\netcoreapp2.1\SuperheroApi.pdb
